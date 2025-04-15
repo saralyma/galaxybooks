@@ -60,6 +60,6 @@ Acompanhe atualizações neste repositório e no canal do YouTube.
 ---
 
 ## 📺 Canal e Autoria
-Criado por **Sara Lyma**, desenvolvedora e educadora apaixonada por IA, backend e soluções com propósito.  
+Criado por **Sara Lyma**, Engenheira de Software e desenvolvedora backend, com foco em Java, Spring Boot e integração com IA. Também atuo como educadora, criando conteúdos técnicos e guiando devs em transição de carreira. Apaixonada por tecnologia com impacto real e soluções com propósito.  
 YouTube: [Talks Tech with Saralyma](https://www.youtube.com) *(link será atualizado em breve)*
 
